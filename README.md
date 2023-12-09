@@ -1,4 +1,4 @@
-- 👋 Hi, I’m NivethaShanmugam
+- 👋 Hi, I’m Nivetha Shanmugam
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning and exploring various aspects of data science
 - 💞️ I’m looking to collaborate on data projects
